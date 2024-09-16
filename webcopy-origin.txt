@@ -1,0 +1,536 @@
+Uri: http://pr.mystartupcrew.com/
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\index.htm
+Content Type: text/html
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.16.2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\css\widget-carousel.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.8.1
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/0020148_blog-thumbnail-26_400.jpeg
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\0020148_blog-thumbnail-26_400.jpeg
+Content Type: image/jpeg
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/1700_Harrison_Boise_ID_Allison_Corona_Photo-162375c9b12d4cb18d7236a53f1bfce2-60c4a6f7579c40348eea46a97c7aefc4-0b2f472ae60a4230a16758b49fe899ce.jpeg
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\1700_Harrison_Boise_ID_Allison_Corona_Photo-162375c9b12d4cb18d7236a53f1bfce2-60c4a6f7579c40348eea46a97c7aefc4-0b2f472ae60a4230a16758b49fe899ce.jpeg
+Content Type: image/jpeg
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/360_F_215815533_NQSAKbDlGnVgX1QCgzeJ8LOyUCWYdcvr.jpg
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\360_F_215815533_NQSAKbDlGnVgX1QCgzeJ8LOyUCWYdcvr.jpg
+Content Type: image/jpeg
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/Driveway.jpg
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\Driveway.jpg
+Content Type: image/jpeg
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/experience-bg.jpg
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\experience-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/GRECO-SONS-LOGO-FILE-3-150x150.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\GRECO-SONS-LOGO-FILE-3-150x150.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/GRECO-SONS-LOGO-FILE-3-295x300.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\GRECO-SONS-LOGO-FILE-3-295x300.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/GRECO-SONS-LOGO-FILE-3.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\GRECO-SONS-LOGO-FILE-3.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/mission-image-01-247x300.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\mission-image-01-247x300.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/mission-image-01.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\mission-image-01.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/mission-image-02.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\mission-image-02.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/pngtree-cartoon-soap-foam-bubble-suds-png-image_8728930.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\pngtree-cartoon-soap-foam-bubble-suds-png-image_8728930.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/quality-150x150.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\quality-150x150.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/quality-300x300.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\quality-300x300.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/quality.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\quality.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/testimonial-01.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\testimonial-01.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/testimonial-03.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\testimonial-03.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/2024/09/testimonial-1.png
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\2024\09\testimonial-1.png
+Content Type: image/png
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/elementor/css/global.css?ver=1726497107
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/elementor/css/post-15.css?ver=1726497107
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\elementor\css\post-15.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/elementor/css/post-29.css?ver=1726497107
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\elementor\css\post-29.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/elementor/css/post-402.css?ver=1726497108
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\elementor\css\post-402.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-content/uploads/elementor/css/post-7.css?ver=1726497106
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://pr.mystartupcrew.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Barlow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_DMs8.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHpv4kjgoGqM7E_DMs8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s51op.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-ws51op.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3j-ws51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks51op.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3p-ks51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s51op.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3q-0s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51op.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3w-os51op.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3w-os51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs51op.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3_-gs51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E3b_s7wHo.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHrv4kjgoGqM7E3b_s7wHo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs7wHo.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHrv4kjgoGqM7E_Cfs7wHo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfO452ouvT8.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfO452ouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WouvT8.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOA5WouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5mouvT8.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOc5mouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4mouvT8.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOQ4mouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfP04WouvT8.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfP04WouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI42ouvT8.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPI42ouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5GouvT8.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPk5GouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHtv4kjgoGqM7E_CfNY8H0JnQ.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\barlow\v12\7cHtv4kjgoGqM7E_CfNY8H0JnQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\pr.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
